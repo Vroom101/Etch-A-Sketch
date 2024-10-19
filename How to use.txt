@@ -1,0 +1,7 @@
+Use "W" for moving cursor forward
+
+Use "S" for moving cursor backwards
+
+Use "A" for moving cursor left
+
+Use "D" for moving cursor right
